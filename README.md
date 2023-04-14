@@ -5,11 +5,11 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Iris-Fla&hide=contribs&count_private=true&show_icons=true&theme=synthwave" height="158px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Iris-Fla&hide=contribs&count_private=true&show_icons=true&theme=synthwave" height="158px" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iris-Fla&layout=compact&theme=synthwave" height="158px" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iris-Fla&layout=compact&theme=synthwave" height="158px" />
 </a>
 
 
