@@ -1,7 +1,7 @@
 
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iris-Fla&theme=synthwave" height="220px" width="100%" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iris-Fla&theme=synthwave" height="220px"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
