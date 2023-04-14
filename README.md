@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iris-Fla&theme=synthwave"width="100%"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iris-Fla&theme=synthwave"width="30%"/>
 </a>
 
 
