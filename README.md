@@ -1,7 +1,7 @@
 
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iris-Fla&theme=synthwave" height="220px" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iris-Fla&theme=synthwave" height="220px" width="100%" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iris-Fla&layout=compact&theme=synthwave" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iris-Fla&layout=compact&theme=synthwave" height="158px" />
 </a>
 
 
