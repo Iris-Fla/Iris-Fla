@@ -3,10 +3,7 @@
 </a>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iris-Fla&show_icons=true&theme=synthwave" width="60%" />
-</a>
+[stats](https://github-readme-stats.vercel.app/api?username=Iris-Fla&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Iris-Fla/)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iris-Fla&layout=compact&theme=synthwave" width="40%"/>
-</a>
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iris-Fla&layout=compact&theme=synthwave)](https://github.com/Iris-Fla/)
