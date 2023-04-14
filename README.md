@@ -4,9 +4,9 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iris-Fla&show_icons=true&theme=synthwave" height="158px"width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Iris-Fla&show_icons=true&theme=synthwave" height="158px"width="60%" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iris-Fla&layout=compact&theme=synthwave" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iris-Fla&layout=compact&theme=synthwave" width="40%"/>
 </a>
