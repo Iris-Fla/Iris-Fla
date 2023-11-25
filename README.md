@@ -21,12 +21,6 @@
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </a>
 </li>
-<li>
-    <a>
-        <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-    </a>
-</li>
-
 </ul>
 
 
