@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me🎉:</h3>
 <p align="left">
-<a href="https://merusite-git-main-iris-fla.vercel.app/articles/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Visit My Site🙏" height="30" width="40" />・[Please DM on Twitter(X)🙏💦]</a>
+<a href="https://merusite-git-main-iris-fla.vercel.app/articles/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Visit My Site🙏" height="30" width="40" /><[Please DM on Twitter🙏💦]</a>
 </p>
 
 <h3 align="left">Languages and Tools📗:</h3>
