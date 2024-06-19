@@ -1,20 +1,15 @@
 <h1 align="center">NyanHello~!I'm Meru🔮</h1>
 <h3 align="center">A passionate developer from Japan🐋</h3>
 
-![Header4](https://github.com/Iris-Fla/Iris-Fla/assets/103801589/aff0d45f-7014-42f2-b267-53ce887469fe)
+![Header](https://github.com/Iris-Fla/Iris-Fla/assets/103801589/aff0d45f-7014-42f2-b267-53ce887469fe)
 
-- 🌱 I’m currently learning **Django,Python,Nuxt3,Azure**
+- 🌱 I’m currently learning **Python,Nuxt3,SQL**
 
 - 🍡 I’m collaborating on [use-bootstrap](https://github.com/simplise/use-bootstrap)
 
-- 🍦 All of my projects are available at [MySite](https://merusite-git-main-iris-fla.vercel.app/)
+- ✨ 制作物に関するブログや自己紹介のポートフォリオサイトはこちら。(制作途中です) [メルの図書館](https://Iris-Fla.me)
 
-- 🍧 I regularly write articles on [MySite](https://merusite-git-main-iris-fla.vercel.app/)
-
-<h3 align="left">Connect with me🎉:</h3>
-<p align="left">
-<a href="https://merusite-git-main-iris-fla.vercel.app/articles/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Visit My Site🙏" height="30" width="40" /><[Please DM on Twitter🙏💦]</a>
-</p>
+- 🎮 デザインや制作が好きです。
 
 <h3 align="left">Languages and Tools📗:</h3>
 <p align="center">
