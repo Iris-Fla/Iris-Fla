@@ -11,11 +11,4 @@
 
 - 🎮 デザインや制作が好きです。
 
-<h3 align="left">Languages and Tools📗:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,pr,xd,nuxtjs,nextjs,azure,python,django,vuejs,react,vite,typescript,javascript,css,html,bootstrap,vscode&theme=light" />
-  </a>
-</p>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iris-fla&show_icons=true&theme=solarized-light&hide_border=true&locale=en&count_private=true" alt="iris-fla" /></p>
