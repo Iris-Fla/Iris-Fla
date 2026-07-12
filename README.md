@@ -9,4 +9,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-221818?style=for-the-badge&logo=nextdotjs&logoColor=E8D9C2)
 ![OpenVINO](https://img.shields.io/badge/OpenVINO-221818?style=for-the-badge&logo=intel&logoColor=E8D9C2)
 
+<sub>Illustration by [こもりひっき](https://x.com/hikkikomori17)</sub>
+
 </div>
